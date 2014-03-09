@@ -1,0 +1,9 @@
+data/1_2SC828.wav
+data/2_2N5210.wav
+data/3_BC547 F.wav
+data/4_BC547 ON.wav
+data/5_2SC3311.wav
+data/6_MPSA18.wav
+data/7_2N4401.wav
+data/8_2N5087.wav
+data/9_KSD5041.wav
