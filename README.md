@@ -9,10 +9,8 @@ an A/B comparison listening test.
 - makelist.py : makes a test pairs list from a wav file list.
 - wav-list-sample.txt : an example wav file list.
 - pairs-list-sample.txt : an example wav file pairs list.
-
 - runtest.py : executes the listening test.
 - start_mark.wav : tone marker indicating start of each comparison.
 - end_mark.wav : tone marker indicating end of each comparison.
 - finish_mark.wav : tone marker indicating the session finishes.
-
-- analysis.py : counts wins and loses of the result .
+- analysis.py : calculates scores and 95% confidence interval for each test samples.
